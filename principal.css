@@ -1,0 +1,20 @@
+.btn-1{
+    display: inline-block;
+    margin: 35px 0px;
+    background-color: rgb(36, 88, 156);
+    color: #fff;
+    padding: 25px 30px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+body{
+    padding: 20px 35px;
+    background-color: rgb(238, 243, 253);
+    text-align: center;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.logo{
+    height: 20px;
+    width: 10px;
+}
